@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 7.99,
+      "image": "https://i.ibb.co/ncghLcC/hamburguer.jpg"
+    },
+    {
+      "id": 2,
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 8.99,
+      "image": "https://i.ibb.co/3kbZSMw/cheeseburguer.jpg"
+    },
+    {
+      "id": 3,
+      "name": "X-Salada",
+      "category": "Sanduíches",
+      "price": 10.99,
+      "image": "https://i.ibb.co/P65DR2L/cheese-salada-burger.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Big Kenzie",
+      "category": "Sanduíches",
+      "price": 16.99,
+      "image": "https://i.ibb.co/nfJj6t2/bigkenzie.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Guaraná",
+      "category": "Bebidas",
+      "price": 4.99,
+      "image": "https://i.ibb.co/rQLH1tc/guarana.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Coca",
+      "category": "Bebidas",
+      "price": 4.99,
+      "image": "https://i.ibb.co/VDTjF8s/cocacola.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Fanta",
+      "category": "Bebidas",
+      "price": 4.99,
+      "image": "https://i.ibb.co/N9CvT1H/fanta.jpg"
+    }
+  ],
+
+  "users": [],
+
+  "cart": []
+}
