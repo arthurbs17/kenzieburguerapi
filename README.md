@@ -1,8 +1,8 @@
-## kenzieburguerapi
+# kenzieburguerapi
 
-## Registrar novos usuários e visualizar usuários cadastrados:
+# Registrar novos usuários e visualizar usuários cadastrados:
 
-# Para registrar novo usuário:
+## Para registrar novo usuário:
 
 POST/register ou /users
 
@@ -30,9 +30,9 @@ status 200
 
 { "email": "user3@mail.com", "password": "xxxxx", "name": "User", "id": x }
 
-## Fazer login:
+# Fazer login:
 
-# Para realizar o login:
+## Para realizar o login:
 
 POST/login ou /signin
 
@@ -50,9 +50,9 @@ Resposta:
 "accessToken": "xxx.xxx.xxx"
 }
 
-## Acessar os produtos:
+# Acessar os produtos:
 
-# Para acessar os produtos:
+## Para acessar os produtos:
 
 GET/products
 
@@ -70,9 +70,9 @@ Resposta:
 }
 ...
 
-## Acesso ao carrinho:
+# Acesso ao carrinho:
 
-# Para adicionar produtos ao carrinho:
+## Para adicionar produtos ao carrinho:
 
 POST/cart
 
